@@ -1,0 +1,60 @@
+@import '../../../public/font/neueMachina.css';
+
+body {
+    font-family: neueMachina, Arial, Kalamehweb;
+}
+
+@keyframes messageAnimationLtr {
+    0% {
+        transform: translateX(0) rotate(0deg);
+        opacity: 1;
+
+
+    }
+    25% {
+        transform: translateX(0) rotate(45deg);
+        opacity: 1;
+
+    }
+    50% {
+
+        transform: translateX(0) rotate(45deg);
+        opacity: 1;
+    }
+    100% {
+
+        transform: translateX(200px) rotate(45deg);
+        opacity: 0;
+
+    }
+
+
+}
+
+@keyframes messageAnimationRtl {
+    0% {
+        transform: translateX(0) rotate(0);
+        opacity: 1;
+
+
+    }
+    25% {
+        transform: translateX(0) rotate(-45deg);
+        opacity: 1;
+
+    }
+    50% {
+
+        transform: translateX(0) rotate(-45deg);
+        opacity: 1;
+    }
+    100% {
+
+        transform: translateY(-200px) rotate(-45deg);
+        opacity: 0;
+
+    }
+
+
+}
+
