@@ -1,0 +1,63 @@
+[
+  {
+    "page": {
+      "aboutUsSection": {
+        "introduction": "شرکت پویاگران سازه آریان با بیش از پانزده سال فعالیت به منظور ارائه مشاوره امور امنیت اجتماعی و مالیاتی به مدیران شرکت‌ها، مؤسسات و صاحبان کسب و کار تأسیس شده است.",
+        "our": "ما",
+        "customers": "مشتریان",
+        "satisfied": "راضی",
+        "completed": "تکمیل شده",
+        "projects": "پروژه‌ها",
+        "happy": "خوشحال",
+        "employees": "کارمندان",
+        "upcoming": "آینده"
+      },
+      "sliderContainer": {
+        "sliderHeader": {
+          "synergyFor": "هماهنگی برای",
+          "success": "موفقیت",
+          "withUs": "با ما"
+        },
+        "description": "این صفحه درباره ما است"
+      },
+      "GoalSection": {
+        "letBuild": "بیا بسازیم",
+        "successTogether": "موفقیت را با هم",
+        "GoalParagraph": "با اعتماد متصل شوید. موفقیت شما از اینجا شروع می‌شود. با ما تماس بگیرید تا به راه‌حل‌ها و پشتیبانی بی‌نظیر دست پیدا کنید. بیاهیم با هم موفقیت بسازیم."
+      },
+      "ContactUsSection": {
+        "ConnectForStrategic": "اتصال برای استراتژیک",
+        "ExcellenceToday": "تفوق امروز"
+      },
+      "contactUsPage": {
+        "contactUsForm": {
+          "sendMassage": "ارسال پیام"
+        },
+        "contactUsIntroduction": {
+          "body": "با اعتماد متصل شوید. موفقیت شما از اینجا شروع می‌شود. با ما تماس بگیرید تا به راه‌حل‌ها و پشتیبانی بی‌نظیر دست پیدا کنید. بیاهیم با هم موفقیت بسازیم.",
+          "header": {
+            "LetBuild": " بیاهیم",
+            "success": "موفقیت",
+            "together": "با هم."
+          }
+        }
+      },
+      "shared": {
+        "contactUs": "تماس با ما",
+        "contactNumber": "شماره تماس",
+        "email": "ایمیل",
+        "address": "آدرس",
+        "linkedin": "لینکداین",
+        "pouyagaranNumber": "02126209855",
+        "pouyagaranEmail": "info@pouyagarangroup.com",
+        "pouyagaranAddress": "تهران، جردن",
+        "pouyagaranLinkedin": "pouyagaran",
+        "caption": "توضیحات"
+      },
+      "footer": {
+        "rightsReserved": "پویاگران سازه آریان. تمامی حقوق محفوظ است.",
+        "creator": "طراحی و توسعه"
+      }
+    }
+  }
+]

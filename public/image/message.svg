@@ -1,0 +1,23 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="30" height="30" fill="#1E1E1E"/>
+<g id="Frame" clip-path="url(#clip0_1_2)">
+<rect width="360" height="1687" transform="translate(-233 -1051)" fill="#F5F5F5"/>
+<g id="Frame_2">
+<g id="Group 1000003772">
+<rect id="Rectangle 6581" x="-215.5" y="-267.5" width="326" height="335" fill="#F5F5F5" stroke="#0D1321"/>
+<g id="Frame_3">
+<rect width="304.186" height="50" transform="translate(-204.594 -10)" fill="#0D1321"/>
+<g id="Line Duotone / Messages, Coversation / Plain 3">
+<path id="Vector" d="M21.6347 18.6701L23.3511 13.5208C24.8506 9.02242 25.6003 6.77322 24.4131 5.58595C23.2258 4.39869 20.9766 5.14842 16.4782 6.64788L11.3289 8.36432C7.69826 9.57453 5.88294 10.1796 5.36708 11.067C4.87634 11.9111 4.87634 12.9537 5.36708 13.7978C5.88294 14.6852 7.69826 15.2903 11.3289 16.5005C11.9118 16.6948 12.2033 16.792 12.447 16.9551C12.6831 17.1131 12.8859 17.316 13.044 17.5521C13.2071 17.7957 13.3042 18.0872 13.4985 18.6701C14.7087 22.3008 15.3138 24.1161 16.2012 24.6319C17.0453 25.1227 18.0879 25.1227 18.932 24.6319C19.8194 24.1161 20.4245 22.3008 21.6347 18.6701Z" stroke="#F5F5F5" stroke-width="1.5"/>
+<path id="Vector_2" opacity="0.5" d="M20.7887 9.21088L16.5781 13.375" stroke="#F5F5F5" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_2">
+<rect width="360" height="1687" fill="white" transform="translate(-233 -1051)"/>
+</clipPath>
+</defs>
+</svg>

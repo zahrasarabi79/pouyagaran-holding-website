@@ -1,0 +1,63 @@
+[
+  {
+    "page": {
+      "aboutUsSection": {
+        "introduction": "تأسست شركة بوياجران سازه آريان بأكثر من خمسة عشر عامًا من النشاط بهدف تقديم الإرشاد الاجتماعي والضريبي لمديري الشركات والمؤسسات وأصحاب الأعمال.",
+        "our": "لدينا",
+        "customers": "العملاء",
+        "satisfied": "راض",
+        "completed": "تم الانتهاء منه",
+        "projects": "المشاريع",
+        "happy": "سعيد",
+        "employees": "الموظفين",
+        "upcoming": "القادمة"
+      },
+      "sliderContainer": {
+        "sliderHeader": {
+          "synergyFor": "توازن لصالح",
+          "success": "النجاح",
+          "withUs": "معنا"
+        },
+        "description": "هذه هي صفحة حولنا"
+      },
+      "GoalSection": {
+        "letBuild": "لنبني",
+        "successTogether": "النجاح معًا.",
+        "GoalParagraph": "الاتصال بثقة. يبدأ نجاحك هنا. تواصل معنا للحصول على حلول مصممة خصيصًا ودعم لا مثيل له. دعونا نبني النجاح معًا."
+      },
+      "ContactUsSection": {
+        "ConnectForStrategic": "الاتصال لأغراض استراتيجية",
+        "ExcellenceToday": "التميز اليوم"
+      },
+      "contactUsPage": {
+        "contactUsForm": {
+          "sendMassage": "إرسال رسالة"
+        },
+        "contactUsIntroduction": {
+          "body": "الاتصال بثقة. يبدأ نجاحك هنا. تواصل معنا للحصول على حلول مصممة خصيصًا ودعم لا مثيل له. دعونا نبني النجاح معًا.",
+          "header": {
+            "LetBuild": " لنبني",
+            "success": "النجاح",
+            "together": "معًا."
+          }
+        }
+      },
+      "shared": {
+        "contactUs": "اتصل بنا",
+        "contactNumber": "رقم الاتصال",
+        "email": "البريد الإلكتروني",
+        "address": "العنوان",
+        "linkedin": "لينكدإن",
+        "pouyagaranNumber": "02126209855",
+        "pouyagaranEmail": "info@pouyagarangroup.com",
+        "pouyagaranAddress": "طهران، الأردن",
+        "pouyagaranLinkedin": "pouyagaran",
+        "caption": "تسمية"
+      },
+      "footer": {
+        "rightsReserved": "بوياجران سازه آريان. جميع الحقوق محفوظة.",
+        "creator": "التصميم والتطوير"
+      }
+    }
+  }
+]

@@ -1,0 +1,55 @@
+@font-face {
+    font-family: neueMachina;
+    src: url('../font/NEUEMACHINA-LIGHT.OTF') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: neueMachina;
+    src: url('../font/NEUEMACHINA-REGULAR.OTF') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: neueMachina;
+    src: url('../font/NEUEMACHINA-ULTRABOLD.OTF') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*kalameh */
+@font-face {
+    font-family: Kalamehweb;
+    font-style: normal;
+    font-weight: normal;
+    src: url('../font/kalameh/woff2/KalamehWeb-Regular.woff2') format('woff2')
+
+}
+
+@font-face {
+    font-family: Kalamehweb;
+    font-style: normal;
+    font-weight: bold;
+    src: url('../font/kalameh/woff2/KalamehWeb-Bold.woff2') format('woff2')
+
+}
+
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: bold;
+    src: url('../font/kalameh/woff2/KalamehWebFaNum-Bold.woff2') format('woff2')
+}
+
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: normal;
+    src: url('../font/kalameh/woff2/KalamehWebFaNum-Regular.woff2') format('woff2')
+
+}
