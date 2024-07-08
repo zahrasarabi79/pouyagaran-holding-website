@@ -1,0 +1,41 @@
+swiper {
+  width: 100%;
+  height: 100%;
+}
+.swiper-horizontal {
+  width: 100%;
+  height: 410px;
+}
+
+@media screen and (min-width: 600px) and (max-width: 899px) {
+  .swiper-horizontal {
+    height: 410px;
+  }
+}
+@media screen and (min-width: 900px) {
+  .swiper-horizontal {
+    min-height: 563px;
+  }
+}
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 410px;
+}
+.swiper-wrapper {
+  position: relative;
+  width: 100%;
+  height:100%;
+  transition: all 0.8s cubic-bezier(0.1, 0.69, 0.18, 1.27);
+}
+.swiper-slide img, .swiper-slide video {
+  width: 100%;
+  height: auto;
+  display: inline-block;
+  object-fit: cover;
+  overflow: hidden;
+}
